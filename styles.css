@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 30px auto;
+    
+    padding: 20px;
+    box-shadow: 0 0 10px whitesmoke;
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+ol {
+    padding-left: 20px;
+}
+li {
+    margin: 15px 0;
+}
+img {
+    width: 150px;
+    height: 200px;
+    margin-right: 20px;
+    float: left;
+}
+.book-info {
+    overflow: auto;
+}
